@@ -1,0 +1,7 @@
+# Files
+*.sln
+
+# Directories
+/bin/
+/bin-int/
+/.vs/

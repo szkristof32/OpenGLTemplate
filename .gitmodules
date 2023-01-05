@@ -1,0 +1,12 @@
+[submodule "OpenGLTemplate\\vendor\\assimp"]
+	path = OpenGLTemplate\\vendor\\assimp
+	url = https://github.com/AminAliari/assimp
+[submodule "OpenGLTemplate\\vendor\\GLFW"]
+	path = OpenGLTemplate\\vendor\\GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "OpenGLTemplate\\vendor\\glm"]
+	path = OpenGLTemplate\\vendor\\glm
+	url = https://github.com/g-truc/glm
+[submodule "OpenGLTemplate\\vendor\\spdlog"]
+	path = OpenGLTemplate\\vendor\\spdlog
+	url = https://github.com/gabime/spdlog
